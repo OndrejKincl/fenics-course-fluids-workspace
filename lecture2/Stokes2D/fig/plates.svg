@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="117.58639mm"
+   height="61.007896mm"
+   viewBox="0 0 117.58638 61.007896"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="plates.svg"
+   inkscape:export-filename="plates.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview33"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs2" />
+  <g
+     id="layer1"
+     transform="translate(-52.145099,-143.83029)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.827762;stroke-dasharray:0.827762, 2.48328;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 75.388716,173.14554 H 156.19375"
+       id="path2442" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.423419;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 73.988199,153.22702 -2.857071,-0.0223 v 19.61076 h 2.895611"
+       id="path2444" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.25629px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.224267;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="58.688301"
+       y="162.14911"
+       id="text3039"><tspan
+         id="tspan3037"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.25629px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.224268;stroke-opacity:1"
+         x="58.688301"
+         y="162.14911">R=0.5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.25629px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.224267;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="116.00687"
+       y="204.65247"
+       id="text3039-6"><tspan
+         id="tspan3037-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.25629px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.224268;stroke-opacity:1"
+         x="116.00687"
+         y="204.65247">L=2.0</tspan></text>
+    <path
+       style="fill:#ff5555;fill-opacity:1;stroke:#ff5555;stroke-width:0.827762;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 75.419695,152.64642 0.106132,40.0435"
+       id="path3570" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.25629px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ff5555;fill-opacity:1;stroke:#ff5555;stroke-width:0.224267;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="68.440269"
+       y="185.22754"
+       id="text3039-5"><tspan
+         id="tspan3037-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.25629px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff5555;fill-opacity:1;stroke:#ff5555;stroke-width:0.224268;stroke-opacity:1"
+         x="68.440269"
+         y="185.22754">Γ<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.25629px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;baseline-shift:sub;fill:#ff5555;stroke:#ff5555;stroke-width:0.224268"
+   id="tspan4793">in</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.25629px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#0088aa;fill-opacity:1;stroke:#0088aa;stroke-width:0.224267;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="164.79408"
+       y="165.73888"
+       id="text3039-5-1"><tspan
+         id="tspan3037-6-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.25629px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0088aa;fill-opacity:1;stroke:#0088aa;stroke-width:0.224268;stroke-opacity:1"
+         x="164.79408"
+         y="165.73888">Γ<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.25629px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;baseline-shift:sub;fill:#0088aa;stroke:#0088aa;stroke-width:0.224268"
+   id="tspan4834">out</tspan></tspan></text>
+    <path
+       style="fill:#0088aa;fill-opacity:1;stroke:#0088aa;stroke-width:0.827762;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 156.35775,152.79132 0.28222,39.81932"
+       id="path4894" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.25629px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#00aa00;fill-opacity:1;stroke:#00aa00;stroke-width:0.224267;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="119.04691"
+       y="187.50803"
+       id="text3039-5-8-6"><tspan
+         id="tspan3037-6-8-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.25629px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00aa00;fill-opacity:1;stroke:#00aa00;stroke-width:0.224268;stroke-opacity:1"
+         x="119.04691"
+         y="187.50803">Γ<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.25629px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;baseline-shift:sub;fill:#00aa00;stroke:#00aa00;stroke-width:0.224268"
+   id="tspan4793-8-3">wall</tspan></tspan></text>
+    <path
+       style="fill:#00aa00;fill-opacity:1;stroke:#00aa00;stroke-width:0.827762;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 75.440207,192.97895 H 156.68297"
+       id="path5390" />
+    <path
+       style="fill:#00aa00;fill-opacity:1;stroke:#00aa00;stroke-width:0.827762;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 75.179347,152.48751 H 156.13536"
+       id="path5392" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.25629px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#00aa00;fill-opacity:1;stroke:#00aa00;stroke-width:0.224267;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="118.66293"
+       y="147.42209"
+       id="text3039-5-8-6-8"><tspan
+         id="tspan3037-6-8-8-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.25629px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00aa00;fill-opacity:1;stroke:#00aa00;stroke-width:0.224268;stroke-opacity:1"
+         x="118.66293"
+         y="147.42209">Γ<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.25629px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;baseline-shift:sub;fill:#00aa00;stroke:#00aa00;stroke-width:0.224268"
+   id="tspan4793-8-3-9">wall</tspan></tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.413881;stroke-dasharray:none"
+       d="m 75.93559,199.21817 h 80.96343"
+       id="path1707" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.41388;stroke-dasharray:none"
+       d="m 76.093879,199.16235 v -3.89646"
+       id="path1709" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.41388;stroke-dasharray:none"
+       d="m 156.69929,199.10738 v -4.15825"
+       id="path1711" />
+  </g>
+</svg>
