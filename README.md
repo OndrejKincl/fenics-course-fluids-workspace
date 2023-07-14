@@ -1,2 +1,4 @@
 # fenics-course-fluids-workspace
-Jupyter notebooks for our SIAM tutorial on FEniCS.
+Repo for notebookes for a tutorial in FEniCS.
+The notebooks have markdown texts and empty spaces to fill code.
+
